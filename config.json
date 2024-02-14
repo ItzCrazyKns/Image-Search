@@ -1,0 +1,10 @@
+{
+    "project": "",
+    "location": "us-central1",
+    "api_endpoint": "us-central1-aiplatform.googleapis.com",
+    "storage_bucket": "",
+    "filepath": "./indexData.json",
+    "index_dimensions": 1408,
+    "search_k": 5
+}
+  
